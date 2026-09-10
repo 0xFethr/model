@@ -1,0 +1,16 @@
+{
+  "name": "0xfethr_ml_server",
+  "version": "1.0.0",
+  "description": "ML recommenders for 0xFethr",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Bhagesh Gaur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "openai": "^3.2.1"
+  }
+}
